@@ -17,6 +17,6 @@ class Solution {
             output.add(candy + extraCandies >= max);
         }
 
-        return output;  // Return the boolean list
+        return output;  // Return the list
     }
 }

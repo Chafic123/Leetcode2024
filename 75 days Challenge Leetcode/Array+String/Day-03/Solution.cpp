@@ -21,6 +21,6 @@ public:
             output[i] = (candies[i] + extraCandies >= max);
         }
         
-        return output;  // Return the boolean vector
+        return output;  // Return the vector
     }
 };
